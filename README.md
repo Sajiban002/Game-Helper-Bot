@@ -10,6 +10,7 @@
 Обьявление - команда которая присылает новости всем пользователям которые были зарегестрированы в базе данных бота.
 Информация о пользователя - команда которая получает дату регистрацию и id пользователя. Можно сбрасывать почту и пароль.
 Секретная кнопка - кнопка которая по специальному паролю предоставляет админу доступ по уничтожению всех данных бота и его отключению
+
 ❗В целом бот был создан исключительно для производной части обучение и не имеет сложных функций.❗
 Бот был написан на языке Python а база данных в PostgreSQL.
 
@@ -23,5 +24,6 @@ Add/Delete a mod is a command that adds/removes a mod for a reason if the mod is
 Announcement is a team that sends news to all users who have been registered in the bot database.
 User Information is the command that receives the registration date and user ID. You can reset your email and password.
 The secret button is a button that, using a special password, gives the administrator access to destroy all bot data and disable it
+
 ❗In general, the bot was created exclusively for the derivative part of the training and does not have complex functions.❗
 The bot was written in Python and the database was in PostgreSQL.
