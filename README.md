@@ -1,6 +1,5 @@
----
-
 ### Game-Helper-Bot  
+---
 
 **Game Helper Bot** — телеграм-бот для поиска и управления модами для игр.  
 
@@ -38,8 +37,6 @@
 ❗️ Бот создан исключительно для учебных целей и не содержит сложного функционала.  
 
 ---
-
-### Game-Helper-Bot  
 
 **Game Helper Bot** is a Telegram bot for searching and managing game mods.  
 
