@@ -1,0 +1,2 @@
+# Game-Helper-Bot
+Ghmod
