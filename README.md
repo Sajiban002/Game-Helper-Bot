@@ -1,6 +1,6 @@
 ---
 
-# Game-Helper-Bot  
+### Game-Helper-Bot  
 
 **Game Helper Bot** — телеграм-бот для поиска и управления модами для игр.  
 
